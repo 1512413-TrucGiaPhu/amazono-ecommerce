@@ -1,5 +1,8 @@
 # amazono-ecommerce
 My meanstack project
+Video demo link: https://drive.google.com/file/d/1PJ2mXVhAX3poOltmC9ysur1AGXAr5Wa6/view
+
+Usage: 
 
 - cd client
 - npm install
