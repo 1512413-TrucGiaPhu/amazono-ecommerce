@@ -12,3 +12,5 @@ start server:
 
 start client:
 - ng serve
+
+go to localhost:4200 to see magic happens
