@@ -6,7 +6,7 @@ const checkJWT = require('../middlewares/check-jwt');
 const aws = require('aws-sdk');
 const multer = require('multer');
 const multerS3 = require('multer-s3');
-const s3 = new aws.S3({ accessKeyId: "AKIAIGIX2PXWJVBALU7A", secretAccessKey: "67nqi8GtCFZAc9hNtUlozH55Gn/h5OAh1PT9RU8l" });
+const s3 = new aws.S3({ accessKeyId: "--enter-your-key-here--", secretAccessKey: "--enter-your-key-here--" });
 
 var upload = multer({
     storage: multerS3({
