@@ -11,11 +11,11 @@ Usage:
 - cd server
 - npm install
 
-start server:
+start the server:
 - node server.js
-- at this stage, if there's a error said "failed to connect to server", just Control + C and node server.js to start the sever again
+- at this stage, if there's an error said "failed to connect to server", just stop your terminal by pressing "Ctrl + C" and "node server.js" to start the sever again
 
-start client:
+start the client:
 - ng serve
 
 go to localhost:4200 to see magic happens
